@@ -1,1 +1,1 @@
-# This is Nike UI 
+# Nike UI 
